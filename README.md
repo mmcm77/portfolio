@@ -1,2 +1,1 @@
-# portfolio
-Rebuilding my personal website.
+This repository contains the code and assets for my personal portfolio website. It showcases my skills, projects, and experiences as a web developer. The website is designed to provide an overview of my professional background and serve as a platform for potential clients or employers to learn more about me.
