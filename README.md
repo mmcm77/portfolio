@@ -1,1 +1,12 @@
-This repository contains the code and assets for my personal portfolio website. It showcases my skills, projects, and experiences as a web developer. The website is designed to provide an overview of my professional background and serve as a platform for potential clients or employers to learn more about me.
+# mikemcmillan.ca
+
+- **Framework**: [Next.js](https://nextjs.org/)
+- **Deployment**: [Vercel](https://vercel.com)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com)
+
+## TODO
+
+I'm redesigning my website in 2023. Here's a few things I want to do:
+
+- [ ] Very simple navigation
+- [ ] Add a blog
